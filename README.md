@@ -1,29 +1,3 @@
-## NestJS CRUD API
-
-1. Create database called "demo"
-![alt text](./images/step_1.png)
-
-2. Type ```pnpm run start``` and click Enter to start the program
-![alt text](./images/step_2.png)
-
-3. Create a post method using POSTMAN
-![alt text](./images/step_3.png)
-
-3. Implement a get all method using POSTMAN
-![alt text](./images/step_4.png)
-
-4. Implement a put method for ID 1
-![alt text](./images/step_5.png)
-
-5. Implement a delete method for ID 2
-![alt text](./images/step_6.png)
-
-6. The final result of the database
-![alt text](./images/step_7.png)
-
-<br />
-
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
